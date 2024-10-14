@@ -1,0 +1,16 @@
+Design Tic Tac Toe
+    1. There will be a board;
+    2. board should be square board;
+    3. A game;
+    4. Two players in a game;
+    5. Players will take turn to make a move;
+    6. a move will have a target cell;
+    7. a move may be decisive move;
+    8. undo a move;
+
+A Game:
+    1; It needs board;
+    2. players
+    3. list of moves;
+    4. play next move;
+    5. undo a move;
